@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Replace with your site name</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+    <h2>Information on Climate Justice</h2>    
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Home</a></li>
+                <li><a href="Solar Panels.html">Solar Panels</a></li>
+                <li><a href="Composting">Composting</a></li>
+                <li><a href="Resources">Resources</a></li>
+        </ul>
+    </nav>
+    </header>
+
+    <main>
+<h1>Composting</h1>
+    </main>
+    <p>Composting helps reduce waste and allows people to nurish the soil we use to grow food</p>
+<figure> <img src="images/istockphoto-1312083152-1024x1024.jpg" alt="composting vegetables and fruits">
+<figcaption> Photo by Liudmila Chernetska: https://www.istockphoto.com/photo/organic-waste-for-composting-on-soil-and-woman-holding-green-seedling-top-view-gm1312083152-400990837</figcaption>
+</figure>
+    <footer>
+        &copy; Copyright 2024 Amari Rasin except as noted in credit
+        <p></p>
+    </footer>
+</body>
+</html>
