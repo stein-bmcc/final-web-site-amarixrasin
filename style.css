@@ -6,15 +6,20 @@
     Here you can set typography, colors and overall page styling
     ------------------------------------------------------ */
 html{
-    font-size: 100%;
+    font-size: 120%;
+    line-height: 1.5;
 }
-body{ font-family: "Smooch Sans", serif;
-}
+body{ font-family: "Smooch Sans", serif; background-color: rgb(25, 205, 145);
+} 
 h1,h2,h3,h4,h5,h6{
     /* Here you can set the font-family for your headings */
 
 }
+main{ max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
 
+}
 /*  ------------------------------------------------------
     HYPERLINK STYLING 
     Change the colors here to match the colors you want for your site.
@@ -39,7 +44,7 @@ a:visited{
     It also sets the color for the navigation.
     ------------------------------------------------------ */ 
 nav{
-    background-color: #fef6c6;
+    background-color: #eed857;
     padding: 10px;
 }
     nav ul{
